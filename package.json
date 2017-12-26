@@ -1,0 +1,26 @@
+{
+  "name": "javascript-playground",
+  "version": "1.0.0",
+  "description": "Javscript practice playground",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/naimjeem/javascript-playground.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Naim Jeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naimjeem/javascript-playground/issues"
+  },
+  "homepage": "https://github.com/naimjeem/javascript-playground#readme",
+  "dependencies": {
+    "nodemon": "^1.14.3"
+  }
+}
