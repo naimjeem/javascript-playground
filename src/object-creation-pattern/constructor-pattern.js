@@ -11,6 +11,6 @@ let peopleConstructor = function(name, age, location) {
   }
 };
 
-let constructorPerson = new peopleConstructor('John ', '20 ', 'CA');
+let person = new peopleConstructor('John ', '20 ', 'CA');
 
-constructorPerson.printPerson();
+person.printPerson();

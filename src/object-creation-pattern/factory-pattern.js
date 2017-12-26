@@ -15,6 +15,6 @@ let peopleFactory = function(name, age, location) {
   return temp;
 };
 
-let factoryPerson = peopleFactory('John ', '20 ', 'CA');
+let person = peopleFactory('John ', '20 ', 'CA');
 
-factoryPerson.printPerson();
+person.printPerson();
